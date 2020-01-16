@@ -5,6 +5,7 @@
                              phoenix_live_reload,phoenix_ecto]},
               {description,"chat"},
               {modules,['Elixir.Chat','Elixir.Chat.Application',
+                        'Elixir.Chat.Chats','Elixir.Chat.Chats.Message',
                         'Elixir.Chat.Repo','Elixir.ChatWeb',
                         'Elixir.ChatWeb.Endpoint',
                         'Elixir.ChatWeb.ErrorHelpers',
