@@ -13,7 +13,8 @@
                         'Elixir.ChatWeb.PageController',
                         'Elixir.ChatWeb.PageView','Elixir.ChatWeb.Router',
                         'Elixir.ChatWeb.Router.Helpers',
-                        'Elixir.ChatWeb.UserSocket']},
+                        'Elixir.ChatWeb.UserSocket',
+                        'Elixir.ChatWeb.WaterCoolerChannel']},
               {registered,[]},
               {vsn,"0.1.0"},
               {mod,{'Elixir.Chat.Application',[]}}]}.
